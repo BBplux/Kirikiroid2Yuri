@@ -1,0 +1,6 @@
+makefile*
+*.mk
+*.mak
+*.o
+*.d
+*.vcxproj

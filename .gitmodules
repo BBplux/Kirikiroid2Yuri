@@ -1,0 +1,68 @@
+[submodule "3rd/libarchive"]
+	path = 3rd/libarchive
+	url = git@github.com:libarchive/libarchive
+	branch = master
+[submodule "3rd/breakpad"]
+	path = 3rd/breakpad
+	url = git@github.com:google/breakpad
+	branch = main
+[submodule "3rd/ffmpeg"]
+	path = 3rd/ffmpeg
+	url = git@github.com:FFmpeg/FFmpeg.git
+	branch = release/4.4
+[submodule "3rd/libjpeg-turbo"]
+	path = 3rd/libjpeg-turbo
+	url = git@github.com:libjpeg-turbo/libjpeg-turbo.git
+	branch = main
+[submodule "3rd/linux-syscall-support"]
+	path = 3rd/linux-syscall-support
+	url = git@github.com:adelshokhy112/linux-syscall-support
+	branch = master
+[submodule "3rd/lz4"]
+	path = 3rd/lz4
+	url = git@github.com:lz4/lz4
+	branch = release
+[submodule "3rd/oniguruma"]
+	path = 3rd/oniguruma
+	url = git@github.com:kkos/oniguruma.git
+	branch = 7.0
+[submodule "3rd/openal-soft"]
+	path = 3rd/openal-soft
+	url = git@github.com:kcat/openal-soft
+	branch = master
+[submodule "3rd/opencv"]
+	path = 3rd/opencv
+	url = git@github.com:opencv/opencv
+	branch = 4.x
+[submodule "3rd/oboe"]
+	path = 3rd/oboe
+	url = git@github.com:google/oboe
+	branch = main
+[submodule "3rd/android-bpg"]
+	path = 3rd/android-bpg
+	url = git@github.com:alexandruc/android-bpg
+	branch = master
+[submodule "3rd/jxrlib"]
+	path = 3rd/jxrlib
+	url = git@github.com:krkrz/jxrlib
+	branch = master
+[submodule "3rd/vorbis"]
+	path = 3rd/vorbis
+	url = git@github.com:xiph/vorbis.git
+	branch = master
+[submodule "3rd/ogg"]
+	path = 3rd/ogg
+	url = git@github.com:xiph/ogg.git
+	branch = master
+[submodule "3rd/opus"]
+	path = 3rd/opus
+	url = git@github.com:xiph/opus.git
+	branch = master
+[submodule "3rd/opusfile"]
+	path = 3rd/opusfile
+	url = git@github.com:xiph/opusfile.git
+	branch = master
+[submodule "3rd/SDL"]
+	path = 3rd/SDL
+	url = git@github.com:libsdl-org/SDL.git
+	branch = main
